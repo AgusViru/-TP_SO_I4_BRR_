@@ -1,0 +1,7 @@
+1- Se pueden mantener los dos datos? Como?
+
+Si, editando manualmente el archivo eligiendo la parte que queremos conservar.
+
+2- Se pueden mantener los dos datos solo de un ALFA o BETA? Como?
+
+Si se pueden mantener ambos datos, modificando archivo que crea conflicto al realizar merge.
